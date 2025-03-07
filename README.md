@@ -1,5 +1,8 @@
 # Aplicación del Algoritmo de Luhn
 
+<p align="center">
+    <img src="Imagenes_readme/Tarjetas.jpg" />
+</p>
 
 ## 📌Objetivo de la práctica
 El objetivo de la práctica es implementar el algoritmo de Luhn mediante funciones que permitan generar números de tarjetas bancarias aleatorios o validar un número existente. Esto se logrará aplicando la lógica del algoritmo para calcular el dígito de control y verificar la autenticidad de los números ingresados, garantizando su conformidad con el estándar utilizado en sistemas de identificación bancaria.
